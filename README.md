@@ -1,3 +1,3 @@
 # introduktion til python
 
-bottom text
+Programmer lavet i python vises her under examples
