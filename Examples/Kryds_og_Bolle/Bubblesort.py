@@ -24,7 +24,7 @@ def bubblesort (data):
 
         
                
-data = [-1, 2, 5, 6, 8, 10, 39]
+data = [5.67,8,2,34,6,-1,7,9,6,5]
 
 bubblesort(data)
 
